@@ -2,7 +2,6 @@
 
 ## Kevin Quell
 
+##[Netflix Movies and TV Shows](https://github.com/KayQu91/Netflix-Movies-and-TV-Shows)
 
-My Data Analytics Portfolio
-* Test1
-* Test2
+
